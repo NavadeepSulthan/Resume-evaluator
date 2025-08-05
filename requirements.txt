@@ -1,3 +1,7 @@
 streamlit
+python-dotenv
 PyMuPDF
+matplotlib
+scikit-learn
+sentence-transformers
 google-generativeai
